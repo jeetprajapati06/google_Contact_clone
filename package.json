@@ -1,5 +1,6 @@
 {
   "name": "googlecontact",
+  "author" : "Jeet prajapati 17",
   "private": true,
   "version": "0.0.0",
   "type": "module",
